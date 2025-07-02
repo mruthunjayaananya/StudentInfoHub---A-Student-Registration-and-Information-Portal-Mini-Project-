@@ -44,7 +44,7 @@ StudentInfoProject/
 ├── pom.xml
 └── web.xml
 
-How to Run
+## How to Run
 
 1. Clone this repository:
 git clone https://github.com/your-username/student-info-system.git
